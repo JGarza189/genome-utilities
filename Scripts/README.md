@@ -2,7 +2,7 @@
 
 ### print.seq.orientations.sh
 
-Prints original FASTA sequence, complementary sequence, reverse sequence, and reverse complementary sequence.
+Prints original FASTA sequence, complementary sequence, reverse sequence, and reverse complementary sequence at the command line.
 
 #### Usage:
 
@@ -24,7 +24,7 @@ To run the script with one or more FASTA files, use the following command:
 
 ### generate.fastq.sh
 
-Converts a .phd sequencing file to a .fastq file, provided Python3 and BioPython are installed.
+Converts a .phd Sanger file into a .fastq file, provided Python3 and BioPython are installed.
 
 #### Usage:
 
@@ -46,7 +46,7 @@ To run this script with one or more FASTQ files, use the following command:
 
 ### generate.reverse.complement.sh 
 
-Script to generate the reverse complement of a FASTA file and outputs the results as a new FASTA file.
+Generates the reverse complement of a FASTA file and outputs the results as a new FASTA file.
 
 #### Usage:
 
@@ -68,7 +68,7 @@ To run this script with one or more .csv files, use the following command:
  
 ### plot.BLAST.output.R
 
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new directory. 
+Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
 #### Usage:
 
