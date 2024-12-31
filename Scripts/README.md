@@ -1,4 +1,4 @@
-## Scripts
+# Scripts
 
 ### print.seq.orientations.sh
 
