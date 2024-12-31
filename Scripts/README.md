@@ -66,7 +66,7 @@ To run this script with one or more .csv files, use the following command:
 `./wrangle.csv.sh  <csv_file1> <csv_file2> ... <csv_fileN>`
  <br><br>
  
-### plot.BLAST.output.R
+### plot.BLAST.R
 
 Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
@@ -74,5 +74,5 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 To run this script with a .csv file, use the following command:
 
-`./plot.BLAST.output.R <csv_file>`
+`./plot.BLAST.R <csv_file>`
  <br><br>

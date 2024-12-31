@@ -76,7 +76,7 @@ dot_plot <- ggplot(data_genus, aes(x = reorder(Genus, Frequency), y = Frequency)
 # Bar plot for top 10 genera frequency
 bar_plot <- ggplot(data_genus, aes(x = reorder(Genus, Frequency), y = Frequency, fill = Genus)) + 
   geom_bar(stat = "identity", alpha = 0.9) +  # Less transparency for darker bars
-  scale_fill_manual(values = c("steelblue", "powderblue", "slategray", "skyblue4", "lightgreen", "darkgray", 
+  scale_fill_manual(values = c("steelblue", "powderblue", "slategray", "skyblue4", "aquamarine3", "darkgray", 
                                "paleturquoise3", "lightblue4", "skyblue2", "azure2")) +
   labs(title = "Top 10 Genus Frequency", x = "Genus", y = "Frequency", fill = "Genus") +  
   theme_minimal() +
