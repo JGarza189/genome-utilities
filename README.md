@@ -9,15 +9,6 @@ This repository holds a curated collection of tools and supplementary informatio
 
 ## Recommended Software
 
-- **Visual Studio Code**: Code editor with extensive language support.  
-- **R**: Statistical computing and graphics.  
-- **RStudio**: Integrated development environment (IDE) for R programming.  
-- **4Peaks**: Chromatogram viewer for DNA sequencing.  
-- **Unipro UGENE**: Bioinformatics analysis toolkit.  
-- **TeXShop**: LaTeX editor for macOS.  
-
-## Recommended Software
-
 ### Applications:
 - **Visual Studio Code**: Code editor with extensive language support.  
 - **R**: Statistical computing and graphics.  
@@ -26,6 +17,6 @@ This repository holds a curated collection of tools and supplementary informatio
 - **Unipro UGENE**: Bioinformatics analysis toolkit.  
 - **TeXShop**: LaTeX editor for macOS.  
 
-### Programming Languages and Libraries:
+### Programming Languages Libraries:
 - **Python**: Programming language used for scripting in various workflows.  
-- **Biopython**: A set of tools for biological computation (install via `pip install biopython`).  
+- **Biopython**: A set of tools for biological computation.  
