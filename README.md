@@ -9,9 +9,19 @@ This repository holds a curated collection of tools and supplementary informatio
 
 ## Recommended Software:
 
-* Visual Studio Code
-* R
-* RStudio
-* 4Peaks
-* Unipro UGENE
-* TeXShop
+* Visual Studio Code (code editor with extensive language support)
+* R (statistical computing and graphics)
+* RStudio (IDE for R programming)
+* 4Peaks (chromatogram viewer for DNA sequencing)
+* Unipro UGENE (bioinformatic analysis)
+* TeXShop (LaTeX editor for macOS)
+
+## Recommended Software
+
+- **Visual Studio Code**: Code editor with extensive language support.  
+- **R**: Statistical computing and graphics.  
+- **RStudio**: Integrated development environment (IDE) for R programming.  
+- **4Peaks**: Chromatogram viewer for DNA sequencing.  
+- **Unipro UGENE**: Bioinformatics analysis toolkit.  
+- **TeXShop**: LaTeX editor for macOS.  
+
