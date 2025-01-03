@@ -7,7 +7,7 @@
 
 This repository holds a curated collection of tools and supplementary information for basic analysis of genetic data. Created to support tasks such as sequence alignment and data visualization, this suite of resources supports workflows in molecular biology.
 
-## Recommended Software
+## Software
 
 ### Applications:
 - **Visual Studio Code**: Code editor with extensive language support.  
