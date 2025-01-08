@@ -17,9 +17,9 @@ This repository holds a curated collection of tools and supplementary informatio
 - **Unipro UGENE**: Bioinformatics analysis toolkit.  
 - **TeXShop**: LaTeX editor for macOS.  
 
-### Programming Languages:
+### Languages:
 - **R**: Statistical computing and graphics.
 - **Python**: Programming language used for scripting in various workflows. 
 
 ### Libraries:
-- **Biopython**: A set of tools for biological computation.    
+- **Biopython**: A set of tools for biological computation (Python-based).
