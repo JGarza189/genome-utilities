@@ -23,8 +23,3 @@ This repository holds a curated collection of tools and supplementary informatio
 
 ### Libraries:
 - **Biopython**: A set of tools for biological computation (Python-based).
-
-## Online Resources
-
-[R for Data Science (2e)](https://r4ds.hadley.nz/) - A resource for learning R programming through hands-on examples and exercises.
-[Software Carpentry: Intro to Shell](https://swcarpentry.github.io/shell-novice/) - A introduction to using the shell for managing files and automating tasks.
