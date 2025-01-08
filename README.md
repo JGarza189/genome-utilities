@@ -20,4 +20,4 @@ This repository holds a curated collection of tools and supplementary informatio
 ### Programming Languages and Libraries:
 - **R**: Statistical computing and graphics.
 - **Python**: Programming language used for scripting in various workflows.  
-- **Biopython**: A set of tools for biological computation.   
+- **Biopython**: A set of tools for biological computation.    
