@@ -26,10 +26,10 @@ This repository contains a suite of tools and supplementary material designed fo
 
 ## Online Support
 
-Essential resources for gaining skills in R and Shell scripting:
+Essential resources for gaining skills in scripting:
 
 - **[Software Carpentry: Shell for Beginners](https://swcarpentry.github.io/shell-novice/)**  
-  An excellent resource for beginners looking to learn the basics of shell scripting.
+  An excellent resource for beginners looking to learn the basics of Shell.
 
 - **[R for Data Science (2nd Edition)](https://r4ds.hadley.nz/)**  
   A comprehensive guide for learning data science using R.
