@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository holds a curated collection of tools and supplementary information for basic analysis of genetic data. Created to support tasks such as sequence alignment and data visualization, this suite of resources supports workflows in molecular biology.
+This repository contains a suite of tools and supplementary materials designed for basic analysis of genetic data. Created to support tasks such as sequence alignment and data visualization, it provides a set of resources that support molecular biology workflows, with an emphasis on accessibility for those new to bioinformatics. 
 
 ## Software
 
@@ -26,11 +26,11 @@ This repository holds a curated collection of tools and supplementary informatio
 
 ## Online Support
 
-Some useful resources for learning about R and Shell scripting:
+Essential resources for gaining skills in R and Shell scripting:
 
 - **[Software Carpentry: Shell for Beginners](https://swcarpentry.github.io/shell-novice/)**  
-  A great resource for beginners looking to learn the basics of shell scripting.
+  An excellent resource for beginners looking to learn the basics of shell scripting.
 
 - **[R for Data Science (2nd Edition)](https://r4ds.hadley.nz/)**  
-  A comprehensive guide for learning data science using R. The book is available for free online.
+  A comprehensive guide for learning data science using R.
 
