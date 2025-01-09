@@ -23,3 +23,14 @@ This repository holds a curated collection of tools and supplementary informatio
 
 ### Libraries:
 - **Biopython**: A set of tools for biological computation (Python-based).
+
+## Online Support
+
+Some useful resources for learning about R and Shell scripting:
+
+- **[Software Carpentry: Shell for Beginners](https://swcarpentry.github.io/shell-novice/)**  
+  A great resource for beginners looking to learn the basics of shell scripting.
+
+- **[R for Data Science (2nd Edition)](https://r4ds.hadley.nz/)**  
+  A comprehensive guide for learning data science using R. The book is available for free online.
+
