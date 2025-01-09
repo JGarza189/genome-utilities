@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains a suite of tools and supplementary materials designed for basic analysis of genetic data. Created to support tasks such as sequence alignment and data visualization, it provides a set of resources that support molecular biology workflows, with an emphasis on accessibility for those new to bioinformatics. 
+This repository contains a suite of tools and supplementary material designed for basic analysis of genetic data. Created to support tasks such as sequence alignment and data visualization, it provides a set of resources that support molecular biology workflows, with an emphasis on accessibility for those new to bioinformatics. 
 
 ## Software
 
