@@ -20,6 +20,7 @@ This repository contains a suite of tools and supplementary material designed fo
 ### Languages:
 - **R**: Statistical computing and graphics.
 - **Python**: Programming language used for scripting in various workflows. 
+- **Shell**: Command-line scripting for automating tasks, file manipulation, and workflow management.
 
 ### Libraries:
 - **Biopython**: A set of tools for biological computation (Python-based).
