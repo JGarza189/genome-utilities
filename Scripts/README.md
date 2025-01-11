@@ -76,3 +76,14 @@ To run this script with a .csv file, use the following command:
 
 `./plot.BLAST.R <csv_file>`
  <br><br>
+
+### haplotype.fasta.sh
+
+Processes a concatenated FASTA file by removing duplicate sequences and filter out those with ambiguous or missing nucleotides.  
+
+#### Usage:
+
+To run this script with a FASTA file, use the following command:
+
+`./haplotype.fasta.sh <fasta_file>`
+ <br><br>
