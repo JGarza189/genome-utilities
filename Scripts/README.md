@@ -79,11 +79,22 @@ To run this script with a .csv file, use the following command:
 
 ### haplotype.fasta.sh
 
-Processes a concatenated FASTA file by removing duplicate sequences and filters out those with ambiguous or missing nucleotides.  
+Processes a concatenated FASTA file by removing duplicate sequences and filters out those with ambiguous or missing nucleotides and parsing out nucleotides in 10 bp sections. 
 
 #### Usage:
 
 To run this script with a FASTA file, use the following command:
 
 `./haplotype.fasta.sh <fasta_file>`
+ <br><br>
+ 
+ ### rename.headers.fasta.sh
+ 
+ Extracts organism name from raw GenBank FASTA file and renames sequences with only the organism entry.
+ 
+ #### Usage:
+ 
+ To run this script with a FASTA file, use the following command:
+ 
+ `./rename.headers.fasta.sh <fasta_file>`
  <br><br>
