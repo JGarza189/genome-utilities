@@ -79,7 +79,7 @@ To run this script with a .csv file, use the following command:
 
 ### haplotype.fasta.sh
 
-Processes a concatenated FASTA file by removing duplicate sequences and filter out those with ambiguous or missing nucleotides.  
+Processes a concatenated FASTA file by removing duplicate sequences and filters out those with ambiguous or missing nucleotides.  
 
 #### Usage:
 
