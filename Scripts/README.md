@@ -90,7 +90,7 @@ To run this script with a FASTA file, use the following command:
  
  ### rename.headers.fasta.sh
  
- Extracts organism name from raw GenBank FASTA file and renames sequences with only the organism entry [organism=X]
+ Extracts organism name from raw GenBank FASTA file and renames sequences with only the organism entry [organism=x]
  
  #### Usage:
  
