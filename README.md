@@ -33,4 +33,4 @@ Essential resources for gaining skills in R and Shell scripting:
   A comprehensive guide for learning data science using R.
 
 - **[Data Integration, Manipulation and Visualization of Phylogenetic Trees](https://yulab-smu.top/treedata-book/index.html)**  
-  A guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.
+  A guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra (Yu, 2023).
