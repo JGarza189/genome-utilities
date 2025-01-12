@@ -30,7 +30,7 @@ Essential resources for gaining skills in R and Shell scripting:
   An excellent resource for beginners looking to learn the basics of Shell.
 
 - **[R for Data Science (2nd Edition)](https://r4ds.hadley.nz/)**  
-  A comprehensive guide for learning data science using R.
+  A comprehensive guide for learning data science using R (Wickham, Çetinkaya-Rundel, & Grolemund, 2023).
 
 - **[Data Integration, Manipulation and Visualization of Phylogenetic Trees](https://yulab-smu.top/treedata-book/index.html)**  
   A guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra (Yu, 2023).
