@@ -26,17 +26,20 @@ A model that uses the logarithm of the determinant of the substitution matrix, h
 
 ## Sequence Alignment
 
-- **MUSCLE**: A widely used tool for multiple sequence alignment that focuses on speed and accuracy. It uses progressive refinement techniques to improve the alignment quality iteratively.
+### MUSCLE
+A widely used tool for multiple sequence alignment that focuses on speed and accuracy. It uses progressive refinement techniques to improve the alignment quality iteratively.
 
-- **ClustalW**: One of the earliest and most widely used tools for multiple sequence alignment. It uses a progressive alignment method based on a pairwise distance matrix to align sequences.
+### ClustalW 
+One of the earliest and most widely used tools for multiple sequence alignment. It uses a progressive alignment method based on a pairwise distance matrix to align sequences.
 
-- **CLUSTALO (Clustal Omega)**: An updated version of ClustalW, offering improved speed and scalability, especially for large datasets. It utilizes a novel method based on a guide tree and multiple sequence alignment.
+### CLUSTALO
+An updated version of ClustalW, offering improved speed and scalability, especially for large datasets. It utilizes a novel method based on a guide tree and multiple sequence alignment.
 
-- **MAFFT**: A highly efficient and accurate multiple sequence alignment tool, particularly designed to handle large datasets. It supports various alignment algorithms, including progressive alignment, iterative refinement, and more.
+### MAFFT
+A highly efficient and accurate multiple sequence alignment tool, particularly designed to handle large datasets. It supports various alignment algorithms, including progressive alignment, iterative refinement, and more.
 
-- **Kalign**: A fast and efficient multiple sequence alignment tool that uses a progressive alignment method with enhanced accuracy. It is designed to align large datasets quickly while maintaining alignment quality.
-
-
+### Kalign
+A fast and efficient multiple sequence alignment tool that uses a progressive alignment method with enhanced accuracy. It is designed to align large datasets quickly while maintaining alignment quality.
 
 ## Bootstrapping
 
