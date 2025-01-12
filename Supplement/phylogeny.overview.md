@@ -16,16 +16,16 @@ A model that uses the logarithm of the determinant of the substitution matrix, h
 
 
 
-# Nucleotide Ambiguity Codes
-# Nucleotide Ambiguity Codes
+
+## Nucleotide Ambiguity Codes
 
 | Symbol 	|  Mnemonic     		| Translation             		|
-| ------------ | -------------------------	|----------------------------------	|
-|   A	 	| A (adenine)		| A                       		|
-|   C	 	| C (cytosine)		| C                      		|
-|   G	 	| G (guanine)		| G                       		|
-|   T	 	| T (thymine)		| T                       		|
-|   U	 	| U (uracil)			| U                       		|
+| ------------	| --------------------------	| ---------------------------------	|
+|   A	 	| 				| A (adenine)                      |
+|   C	 	| 				| C (cytosine)                    	|
+|   G	 	| 				| G (guanine)                     	|
+|   T	 	|				| T (thymine)                      	|
+|   U	 	| 				| U (uracil)	                      	|
 |   R	 	| puRine			| A or G (purines)        	|
 |   Y	 	| pYrimidine		| C or T/U (pyrimidines)  	|
 |   M	 	| aMino group		| A or C                  		|
@@ -36,4 +36,4 @@ A model that uses the logarithm of the determinant of the substitution matrix, h
 |   B	 	| not A			| C, G or T/U             		|
 |   V	 	| not T/U			| A, C or G               		|
 |   D	 	| not C			| A, G or T/U             		|
-|   N	 	| any				| A, C, G or T/U (any)    	|
+|   N	 	| aNy				| A, C, G or T/U		    	|
