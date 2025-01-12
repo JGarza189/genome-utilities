@@ -38,5 +38,4 @@ A model that uses the logarithm of the determinant of the substitution matrix, h
 |   D	 	| not C			| A, G or T/U             		|
 |   N	 	| aNy				| A, C, G or T/U		    	|
 
-### Citation
 Johnson, A. D. (2010a). An extended IUPAC nomenclature code for polymorphic nucleic acids. *Bioinformatics, 26*(10), 1386–1389. [https://doi.org/10.1093/bioinformatics/btq098](https://doi.org/10.1093/bioinformatics/btq098)  
