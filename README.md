@@ -22,7 +22,7 @@ This repository contains a suite of tools and supplementary material designed fo
 - **Python**: Programming language used for scripting in various workflows. 
 - **Shell**: Command-line scripting for automating tasks, file manipulation, and workflow management.
 
-## Online Support
+## Online Support & Resources
 
 Essential resources for gaining skills in R and Shell scripting:
 
