@@ -39,4 +39,4 @@ awk '/^>/ {if (seq) {print seq; seq=""} print; next} {seq = seq $0} END {if (seq
 # Clean up temporary file
 rm -f "$temp_sequences"
 
-echo "Haplotyped & Parsed: $output_fasta"
+echo "Deduplicated: $output_fasta"
