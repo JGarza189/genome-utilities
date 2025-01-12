@@ -16,8 +16,8 @@ It covers essential topics of phylogenetic analysis, explaining how genetic data
 This figure provides an overview of a bioinformatics pipeline used to process raw Sanger sequencing data, including files such as *phd*, *.ab1*, and *seq*. 
 
 It covers fundamental steps including:
-- Quality control
-- Sequence assembly
-- Alignment
-- BLAST searching
-- Phylogenetic tree construction for visualization and analysis.
+- *Quality control*
+- *Sequence assembly*
+- *Alignment*
+- *BLAST searching*
+- *Phylogenetic tree construction*
