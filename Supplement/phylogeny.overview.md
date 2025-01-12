@@ -10,10 +10,7 @@
 
 - **PhyML (Maximum Likelihood)**: A maximum likelihood-based method for constructing phylogenetic trees that estimates tree topologies by maximizing the likelihood of sequence data given a substitution model. It is widely used for its accuracy and statistical rigor in tree inference.
 
-
-
-## PHYLIP Neighbor Joining
-Genetic Distance Models
+### Genetic Distance Models
 
 ### Jukes-Cantor (JC69)
 A simple model assuming equal substitution rates for all nucleotides and equal base frequencies. It is best for closely related sequences with few substitutions.
