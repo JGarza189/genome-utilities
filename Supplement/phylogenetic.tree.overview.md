@@ -1,14 +1,14 @@
 # Overview of Tree Building Methods
 
-- **PHYLIP Neighbor Joining (NJ)**: This is a distance-based method that constructs a phylogenetic tree by progressively joining pairs of taxa that minimize the total branch length. It is fast and efficient but can be less accurate for complex evolutionary relationships.
+**PHYLIP Neighbor Joining (NJ)**: This is a distance-based method that constructs a phylogenetic tree by progressively joining pairs of taxa that minimize the total branch length. It is fast and efficient but can be less accurate for complex evolutionary relationships.
 
-- **MrBayes**: A Bayesian inference-based tool that uses Markov chain Monte Carlo (MCMC) to estimate phylogenetic trees by sampling from the posterior distribution of tree topologies. It provides probabilistic estimates of tree reliability but can be computationally intensive.
+**MrBayes**: A Bayesian inference-based tool that uses Markov chain Monte Carlo (MCMC) to estimate phylogenetic trees by sampling from the posterior distribution of tree topologies. It provides probabilistic estimates of tree reliability but can be computationally intensive.
 
-- **IQ-TREE**: A maximum-likelihood-based software that builds phylogenetic trees by optimizing the likelihood of sequence data under a chosen substitution model. It is highly efficient and includes model selection and bootstrap support for tree robustness.
+**IQ-TREE**: A maximum-likelihood-based software that builds phylogenetic trees by optimizing the likelihood of sequence data under a chosen substitution model. It is highly efficient and includes model selection and bootstrap support for tree robustness.
 
-- **FastTree**: A fast and approximate method for constructing phylogenetic trees using maximum likelihood estimation with a focus on speed. It is useful for large datasets but may sacrifice some accuracy compared to slower, more precise methods.
+**FastTree**: A fast and approximate method for constructing phylogenetic trees using maximum likelihood estimation with a focus on speed. It is useful for large datasets but may sacrifice some accuracy compared to slower, more precise methods.
 
-- **PhyML (Maximum Likelihood)**: A maximum likelihood-based method for constructing phylogenetic trees that estimates tree topologies by maximizing the likelihood of sequence data given a substitution model. It is widely used for its accuracy and statistical rigor in tree inference.
+**PhyML (Maximum Likelihood)**: A maximum likelihood-based method for constructing phylogenetic trees that estimates tree topologies by maximizing the likelihood of sequence data given a substitution model. It is widely used for its accuracy and statistical rigor in tree inference.
 
 ## Genetic Distance Models
 
