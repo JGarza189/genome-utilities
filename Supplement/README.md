@@ -3,7 +3,7 @@
 ## Publications
 This directory contains papers related to bioinformatics that provide background and context for the methods and tools used in this repository.
 
-## phylogenetic.tree.overview.md
+## phylogenetic-tree.overview.md
 This file offers a basic overview of key concepts in phylogenetic tree construction, including:
 - *Sequence alignment*
 - *Substitution models*
