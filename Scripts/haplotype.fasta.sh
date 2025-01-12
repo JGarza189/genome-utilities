@@ -7,7 +7,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 input_fasta="$1"
-output_fasta="${input_fasta%.fasta}_haplotypes.fasta"
+output_fasta="${input_fasta%.fasta}_haplotyped.fasta"
 
 # Temporary file to store unique and filtered sequences
 temp_sequences=$(mktemp)
