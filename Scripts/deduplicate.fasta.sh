@@ -7,7 +7,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 input_fasta="$1"
-output_fasta="${input_fasta%.fasta}_haplotyped.fasta"
+output_fasta="${input_fasta%.fasta}_deduplicated.fasta"
 
 # Temporary file to store unique and filtered sequences
 temp_sequences=$(mktemp)
@@ -24,15 +24,10 @@ awk '/^>/ {if (seq) {print seq; seq=""} print; next} {seq = seq $0} END {if (seq
         }
     }'
 
-# Format sequences into chunks of 10 nucleotides grouped within single lines
+# Write the filtered sequences directly to the output FASTA file
 {
     while IFS= read -r line; do
-        if [[ "$line" == ">"* ]]; then
-            echo "$line" # Print header
-        else
-            # Group sequences into chunks of 10 nucleotides
-            echo "$line" | fold -w 10 | paste -sd' ' -
-        fi
+        echo "$line" # Print each sequence line as is
     done < "$temp_sequences"
 } > "$output_fasta"
 
