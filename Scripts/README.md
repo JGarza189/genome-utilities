@@ -22,9 +22,9 @@ To run the script with one or more FASTA files, use the following command:
 `./concatenate.fasta.sh <fasta_file1> <fasta_file2> ... <fasta_fileN>`
  <br><br>
 
-### generate.fastq.sh
+### generate.fastq.py
 
-Converts a .phd Sanger file into a .fastq file, provided Python3 and BioPython are installed.
+Converts a .phd Sanger file into a .fastq file.
 
 #### Usage:
 
@@ -35,7 +35,7 @@ To run this script with a single .phd file, use the following command:
  
 ### generate.FastQC.sh
 
-Generates a FastQC report, a quality control tool for high-throughput sequence data on one or more FASTQ files. This script simplifies the process of running FastQC, producing detailed HTML reports and raw data summaries to assess the quality of sequencing reads.
+Generates a FastQC report, a quality control tool for high-throughput sequence data on one or more FASTQ files. This script simplifies the process of running FastQC, producing detailed HTML reports and raw data summaries to assess the quality of sequencing reads. ADD DEPENDENCY HERE TO DOWNLOAD FASTQC.
 
 #### Usage:
 
