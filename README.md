@@ -7,21 +7,6 @@
 
 This repository contains a suite of tools and supplementary material designed for basic analysis of genetic data. Created to support tasks such as sequence alignment and data visualization, it provides a set of resources that support molecular biology workflows.
 
-## Software
-
-### Applications:
-- **Visual Studio Code**: Code editor with extensive language support.  
-- **R**: Statistical computing and graphics.
-- **RStudio**: Integrated development environment for R programming.  
-- **4Peaks**: Chromatogram viewer for DNA sequencing.  
-- **Unipro UGENE**: Bioinformatics analysis toolkit.  
-- **TeXShop**: LaTeX editor for macOS.  
-
-### Languages:
-- **R**: Statistical computing and graphics.
-- **Python**: Programming language used for scripting in various workflows. 
-- **Shell**: Command-line scripting for automating tasks, file manipulation, and workflow management.
-
 ## Online Support
 
 Essential resources for gaining skills in R and Shell scripting:
