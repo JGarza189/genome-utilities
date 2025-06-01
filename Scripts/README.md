@@ -1,6 +1,6 @@
 # Scripts
 
-### print.seq.orientations.sh
+### print-sequence-orientations.sh
 
 Prints original FASTA sequence, complementary sequence, reverse sequence, and reverse complementary sequence at the command line.
 
@@ -44,17 +44,6 @@ To run this script with one or more FASTQ files, use the following command:
 `./generate.FastQC.sh <fastq_file1> <fastq_file2> ... <fastq_fileN>`
  <br><br>
   
-### plot.BLAST.R
-
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
-
-#### Usage:
-
-To run this script with a .csv file, use the following command:
-
-`./plot.BLAST.R <csv_file>`
- <br><br>
-
 ### deduplicate.fasta.sh
 
 Processes a concatenated FASTA file by removing duplicate sequences and filters out those with ambiguous or missing nucleotides.
@@ -64,15 +53,4 @@ Processes a concatenated FASTA file by removing duplicate sequences and filters 
 To run this script with a FASTA file, use the following command:
 
 `./deduplicate.fasta.sh <fasta_file>`
- <br><br>
- 
- ### rename.headers.fasta.sh
- 
- Extracts organism name from raw GenBank FASTA file and renames sequences with only the organism entry [organism=x].
- 
- #### Usage:
- 
- To run this script with a FASTA file, use the following command:
- 
- `./rename.headers.fasta.sh <fasta_file>`
  <br><br>
