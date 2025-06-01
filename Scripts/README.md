@@ -43,29 +43,7 @@ To run this script with one or more FASTQ files, use the following command:
 
 `./generate.FastQC.sh <fastq_file1> <fastq_file2> ... <fastq_fileN>`
  <br><br>
-
-### generate.reverse.complement.sh 
-
-Generates the reverse complement of a FASTA file and outputs the results as a new FASTA file.
-
-#### Usage:
-
-To run this script with a FASTA file, use the following command:
-
-`./generate.reverse.complement.sh <fasta_file1> `
- <br><br>
- 
-### wrangle.csv.sh
-
-Wrangles one or more .csv files by replacing all spaces with periods throughout the entire document.
-
-#### Usage:
-
-To run this script with one or more .csv files, use the following command:
-
-`./wrangle.csv.sh  <csv_file1> <csv_file2> ... <csv_fileN>`
- <br><br>
- 
+  
 ### plot.BLAST.R
 
 Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
