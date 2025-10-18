@@ -35,7 +35,7 @@ To run this script with a single .phd file, use the following command:
  
 ### generate-FastQC.sh
 
-Generates a FastQC report, a quality control tool for high-throughput sequence data on one or more FASTQ files. This script simplifies the process of running FastQC, producing detailed HTML reports and raw data summaries to assess the quality of sequencing reads. ADD DEPENDENCY HERE TO DOWNLOAD FASTQC.
+Generates a FastQC report, a quality control tool for high-throughput sequence data on one or more FASTQ files. This script simplifies the process of running FastQC, producing detailed HTML reports and raw data summaries to assess the quality of sequencing reads. 
 
 #### Usage:
 
