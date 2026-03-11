@@ -1,264 +1,291 @@
 # CSI: The Case of the Zombie Ant
-### Interactive Presentation Game  
+### Interactive Investigation Game  
 **Course:** Fungal Biology and Ecology  
-**Phylum Focus:** Ascomycota  
-**Target Fungus:** Ophiocordyceps unilateralis  
+**Topic:** Weird Fungi of Ascomycota  
+**Final Organism:** Ophiocordyceps unilateralis
 
 ---
 
 # Overview
 
-This presentation is designed as an **interactive CSI-style investigation** where the class solves the cause of an ant’s death.  
-Instead of a traditional lecture, the audience participates in identifying the fungus responsible.
+Instead of a traditional lecture, this presentation is designed as an **interactive investigation game**.  
 
-Students receive **suspect sheets** and clues throughout the investigation. By analyzing the clues, they eliminate fungal suspects until the correct organism is revealed.
+The class will act as a team of **scientific investigators** attempting to determine which fungus caused the death of a mysterious organism discovered in a tropical forest.
 
-Final answer: **Ophiocordyceps unilateralis**
+Throughout the investigation, clues will be revealed about:
+
+- host organism
+- infection process
+- fungal life cycle
+- ecological role
+- taxonomy
+
+Using this information, the class must eliminate suspects until the correct fungus is identified.
+
+The correct answer will ultimately be:
+
+**Ophiocordyceps unilateralis**  
+(commonly called the *zombie ant fungus*)
+
+This species belongs to the fungal phylum **Ascomycota**.
 
 ---
 
-# Time Structure (15 Minutes)
+# Rules for the Class
 
-| Section | Activity | Time |
-|---|---|---|
-| Introduction | Crime scene presentation | 1 min |
-| Clue Round 1 | Identify type of pathogen | 2 min |
-| Clue Round 2 | Infection timeline puzzle | 5 min |
-| Clue Round 3 | Behavioral manipulation clue | 3 min |
-| Clue Round 4 | Taxonomy & biology reveal | 2 min |
-| Conclusion | Ecology & why it is weird | 2 min |
+Before the investigation begins, the following rules will be explained to the class.
+
+## Investigation Rules
+
+1. You are acting as **scientific investigators** examining a mysterious biological case.
+
+2. You will be given a **list of fungal suspects** at the start.
+
+3. During the investigation we will reveal **new pieces of evidence**.
+
+4. Each piece of evidence should help you **eliminate possible suspects**.
+
+5. You may discuss your ideas briefly with people sitting near you.
+
+6. When asked a question, the class will vote on which suspect should be eliminated or kept.
+
+7. At the end of the investigation, you must determine **which fungus caused the case**.
+
+8. The goal is to use **scientific reasoning**, not guessing.
+
+---
+
+# Suspect List
+
+All suspects belong to the fungal phylum **Ascomycota**, but they differ in host organisms, ecology, and biology.
+
+| Suspect | Description |
+|--------|-------------|
+| Ophiocordyceps unilateralis | Parasitic fungus that infects ants and manipulates their behavior |
+| Cordyceps militaris | Parasitic fungus infecting insects such as caterpillars |
+| Beauveria bassiana | Soil fungus that infects many insects and grows over their bodies |
+| Ophiocordyceps sinensis | Parasite of ghost moth larvae found in alpine regions |
+| Claviceps purpurea | Plant pathogen infecting grasses and producing ergot alkaloids |
 
 ---
 
 # Group Roles (4 People)
 
-### 1. Lead Investigator
-Introduces the case and leads audience interaction.
+## Lead Investigator
+Introduces the case and guides the investigation.
 
 Responsibilities:
-- Narrate the crime scene
-- Ask the class questions
-- Guide elimination of suspects
+- Narrate the story
+- Ask questions to the class
+- Guide suspect elimination
 
 ---
 
-### 2. Field Investigator
-Handles physical evidence and infection timeline activity.
+## Field Investigator
+Handles the crime scene evidence and activity.
 
 Responsibilities:
-- Show the crime scene photo
-- Distribute stage cards
-- Ask volunteers to arrange the infection stages
+- Present the crime scene image
+- Manage volunteer participation
+- Run the infection timeline puzzle
 
 ---
 
-### 3. Lab Scientist
-Explains fungal biology and taxonomy.
+## Lab Scientist
+Explains the biological and taxonomic evidence.
 
 Responsibilities:
-- Reveal microscopic characteristics
-- Explain Ascomycota features
-- Identify the species scientifically
+- Discuss fungal structures
+- Explain the phylum Ascomycota
+- Reveal the scientific identification
 
 ---
 
-### 4. Ecologist
-Explains ecological role and why the fungus is unusual.
+## Ecologist
+Explains the ecological interactions and significance.
 
 Responsibilities:
-- Describe host interaction
-- Explain habitat and distribution
-- Conclude the case
+- Describe host–parasite interactions
+- Explain environmental role
+- Conclude the investigation
 
 ---
 
-# Game Materials
+# Game Timeline (15 Minutes)
 
-Prepare the following materials:
-
-### Printed Materials
-- Suspect Sheet (for audience)
-- Infection Stage Cards
-- Crime Scene Image
-- Final Reveal Slide or Poster
-
-### Optional Props
-- Toy ant
-- Artificial leaf
-- Fake fungal stalk (pipe cleaner)
+| Section | Activity | Time |
+|-------|-----------|------|
+| Introduction | Crime scene reveal | 1 min |
+| Clue Round 1 | Identify type of host | 3 min |
+| Clue Round 2 | Infection timeline puzzle | 5 min |
+| Clue Round 3 | Behavioral manipulation clue | 3 min |
+| Clue Round 4 | Lab identification | 2 min |
+| Conclusion | Ecology and final reveal | 1–2 min |
 
 ---
 
-# Suspect List (Audience Handout)
+# Round 1 — Crime Scene
 
-Students receive a sheet with fungal suspects.
+The investigation begins with a **crime scene image**.
 
-| Suspect | Description |
-|---|---|
-| Ophiocordyceps unilateralis | Parasitic fungus that infects ants |
-| Cordyceps militaris | Insect parasite but does not control ant behavior |
-| Claviceps purpurea | Infects grasses and produces ergot toxins |
-| Tuber melanosporum | Underground truffle forming symbiosis with trees |
-| Saccharomyces cerevisiae | Single-celled yeast used in fermentation |
+Evidence presented:
 
-The class eliminates suspects as clues are revealed.
+- A small organism is found dead
+- The body is attached to the underside of a leaf
+- A fungal structure appears to be emerging from the body
+- The environment is a humid tropical forest
 
----
+The class must determine:
 
-# Game Flow
+**What type of host organism might this be?**
 
----
+After discussion, reveal that the host is an **insect**.
 
-# Round 1 — The Crime Scene
+Students eliminate the suspect that infects plants:
 
-Show an image of an infected ant.
-
-Crime Scene Clues:
-
-- Dead ant attached to underside of leaf
-- Fungus growing from head
-- Found in tropical forest
-- Ant colony nearby appears normal
-
-Ask the class:
-
-**Which of these fungi infect insects?**
-
-Students eliminate:
-
-- Tuber melanosporum  
-- Saccharomyces cerevisiae  
-- Claviceps purpurea  
-
-Remaining suspects:
-
-- Cordyceps militaris  
-- Ophiocordyceps unilateralis  
+- Claviceps purpurea
 
 ---
 
 # Round 2 — Infection Timeline Puzzle
 
-Bring **3–5 volunteers** to the front.
+Volunteers from the class are invited to the front.
 
-Give them shuffled cards showing infection stages.
+They receive shuffled cards representing stages of infection.
 
-### Infection Stages
+## Infection Stages
 
-1. Spores land on the ant cuticle
-2. Fungus penetrates the exoskeleton
-3. Mycelium grows inside the ant
-4. Ant climbs vegetation and bites leaf
-5. Fruiting body grows and releases spores
+1. Fungal spores land on the insect’s outer surface  
+2. The fungus penetrates the exoskeleton  
+3. Mycelium grows throughout the host body  
+4. The infected insect climbs vegetation  
+5. The insect bites onto a leaf before dying  
+6. A fruiting body grows from the host and releases spores  
 
-Volunteers arrange the stages in the correct order.
+The volunteers must arrange these stages in the correct order.
 
-Afterward, presenters explain each stage.
+While confirming the correct order, the presenters explain:
 
-Concepts covered:
-
-- fungal spores
-- parasitic infection
+- fungal infection mechanisms
 - hyphal growth
-- fruiting bodies
-- reproduction
+- parasitic relationships
+- spore dispersal
+
+This section covers the **life cycle requirement** of the assignment.
 
 ---
 
 # Round 3 — Behavioral Clue
 
-Reveal a new piece of evidence:
+A new piece of evidence is revealed:
 
-> The infected ant climbs vegetation and bites a leaf vein before dying.
+> The infected insect climbs vegetation and bites a leaf vein before dying.
 
 Ask the class:
 
-**Which suspect fungus manipulates insect behavior?**
+**Which fungi on the suspect list manipulate host behavior in this way?**
 
-Correct answer:
+This eliminates several suspects.
 
-Ophiocordyceps unilateralis
+Remaining likely candidates:
 
-Explain:
-
-The fungus alters ant behavior to position the host for optimal spore dispersal.
+- Cordyceps militaris
+- Ophiocordyceps unilateralis
 
 ---
 
 # Round 4 — Lab Identification
 
-The lab analysis reveals:
+Laboratory analysis reveals:
 
-- spores produced in **asci**
+- the fungus produces spores in microscopic sacs called **asci**
 
-Explain that this structure defines the phylum **Ascomycota**.
+This structure defines fungi belonging to the phylum **Ascomycota**.
 
-Scientific identification:
+Additional evidence shows:
 
-Kingdom: Fungi  
-Phylum: Ascomycota  
-Genus: Ophiocordyceps  
-Species: Ophiocordyceps unilateralis
+- a single stalk emerging from the insect's head
+- spores released from this structure
 
-Historical note:
+The evidence points to:
 
-First described in **1865**.
+**Ophiocordyceps unilateralis**
 
 ---
 
-# Ecology and Host Relationship
+# Ecology
 
-Host organism:
+## Host Organism
 
-Carpenter ants (genus Camponotus)
+The fungus infects **carpenter ants** from the genus *Camponotus*.
 
-Habitat:
+## Habitat
 
-- Tropical forests
+Commonly found in:
+
+- tropical rainforests
 - Southeast Asia
-- Amazon rainforest
+- parts of South America
 
-Ecological role:
+## Ecological Role
 
-- Parasite of insects
-- Helps regulate insect populations
+Ophiocordyceps unilateralis is a **parasitic fungus** that infects insects.
+
+It helps regulate insect populations and contributes to ecosystem balance.
 
 ---
 
 # Why This Fungus Is Weird
 
-1. Controls ant behavior
-2. Forces ants to climb vegetation
-3. Causes the “death grip” bite
-4. Grows a stalk from the ant head
-5. Releases spores onto ants below
+This species is considered one of the strangest fungi because it:
 
-This behavior maximizes fungal reproduction.
+- infects ants and grows inside their bodies
+- manipulates ant behavior
+- forces the ant to climb vegetation
+- causes a permanent “death grip” bite on a leaf
+- grows a stalk from the ant's head after death
+- releases spores onto ants walking below
+
+These adaptations maximize fungal reproduction.
 
 ---
 
 # Final Reveal
 
-The investigators conclude:
+The investigation concludes:
 
-**Cause of death: infection by Ophiocordyceps unilateralis**
+**Cause of death:** infection by  
+**Ophiocordyceps unilateralis**
 
 Also known as the **zombie ant fungus**.
 
 ---
 
-# Why This Presentation Works
+# Materials Needed
 
-This format satisfies all assignment requirements.
+## Printed Materials
 
-| Requirement | Covered In |
-|---|---|
-| Life cycle | Infection timeline puzzle |
-| Scientific name | Lab identification section |
-| Ecology | Ecology discussion |
-| Environmental role | Parasite explanation |
-| Why it is weird | Behavioral manipulation section |
+- suspect sheet for the class
+- infection stage cards
+- crime scene image
+- final reveal slide or poster
 
-It also keeps the audience engaged through participation and problem solving.
+## Optional Props
+
+- toy ant
+- artificial leaf
+- pipe cleaner or model representing fungal stalk
+
+---
+
+# Learning Objectives
+
+By the end of the investigation, the class will understand:
+
+- fungal parasitism
+- host manipulation
+- fungal life cycles
+- taxonomy of Ascomycota
+- ecological roles of parasitic fungi
 
 ---
