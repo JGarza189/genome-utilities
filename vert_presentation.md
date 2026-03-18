@@ -109,20 +109,10 @@ Option B (Simple demo)
 
 ---
 
-## Group Role Split (3 People)
+## Group Roles
 
 - Person 1: Intro + toothed whales  
 - Person 2: Baleen whales + comparison  
 - Person 3: Interactive + evolution + conclusion  
-
----
-
-## Notes for Presentation
-
-- Keep slides visual, not text-heavy  
-- Use clear images to show structures  
-- Speak in simple terms appropriate for middle school students  
-- Stay within 8 minutes total  
-- Make sure each person speaks evenly  
 
 ---
