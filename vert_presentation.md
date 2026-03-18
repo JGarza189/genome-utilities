@@ -96,7 +96,7 @@ Option B (Simple demo)
 
 ---
 
-## Slide Structure (Minimal Text)
+## Slide Structure
 
 1. Title + hook question  
 2. What is a whale  
