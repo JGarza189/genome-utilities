@@ -26,7 +26,7 @@
 ### 3. Toothed Whales (1:30–3:00)
 Key idea: They hunt individual prey
 
-- Examples: dolphins, orcas
+- Example: orcas
 - Morphology (structure):
   - Sharp teeth
   - Long snout
