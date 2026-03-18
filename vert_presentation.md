@@ -1,5 +1,5 @@
 # Public Dissemination Group Project Outline  
-## Topic: How Whales Eat — Teeth vs. Baleen
+## Topic: How Whales Eat - Teeth vs. Baleen
 
 ---
 
