@@ -57,14 +57,12 @@ Key idea: They filter tiny prey from water
 
 ### 5. Compare & Contrast (4:30–5:45)
 
-| Feature         | Toothed Whales     | Baleen Whales        |
-|----------------|--------------------|----------------------|
-| Teeth          | Yes                | No                   |
-| Feeding Style  | Hunting            | Filtering            |
-| Food           | Fish, squid        | Krill, plankton      |
-| Strategy       | Fast, targeted     | Slow, bulk feeding   |
+| Whale Type      | Teeth   | Feeding Style   | Primary Diet     | Strategy    |
+|-----------------|---------|-----------------|------------------|-------------|
+| Toothed Whale   | Present | Predation       | Fish, squid      | Targeted    |
+| Baleen Whale    | Absent  | Filter feeding  | Krill, plankton  | Bulk intake |
 
-Key takeaway: different structures lead to different functions
+**Key takeaway:** Different structures correspond to different feeding functions.
 
 ---
 
