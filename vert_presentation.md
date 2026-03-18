@@ -68,12 +68,12 @@ Key idea: They filter tiny prey from water
 
 ### 6. Interactive Component (5:45–7:00)
 
-Option A (Zoom-friendly)
+Option A 
 - Show images of whales
 - Ask: “Teeth or baleen?”
 - Let audience answer
 
-Option B (Simple demo)
+Option B
 - Cup of water + small paper pieces
 - Use a paper towel as a filter
 - Demonstrates baleen feeding
