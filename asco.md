@@ -1,10 +1,10 @@
-# CSI: An Ascomycota Perspective — Joseph (Lead Investigator Script Only, Updated)
+# CSI: An Ascomycota Perspective — Joseph (Lead Investigator Script Only)
 
 ---
 
 ## INTRODUCTION
 
-Alright everyone, today you are not just students—you are scientific investigators.
+Alright everyone, today you are not just students .. you are scientific investigators.
 
 We have a case.
 
