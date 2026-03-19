@@ -1,4 +1,4 @@
-# CSI: An Ascomycota Perspective — Joseph (Lead Investigator Script Only)
+# CSI: An Ascomycota Perspective - Joseph 
 
 ---
 
@@ -22,7 +22,7 @@ Let’s begin the investigation.
 
 ---
 
-## CLUE ROUND 1 — TRANSITION
+## CLUE ROUND 1 - TRANSITION
 
 The organism was found attached to the underside of a leaf, and a fungal structure is emerging from the body. The environment is a humid tropical forest.
 
@@ -30,7 +30,7 @@ Based on this information, we can begin narrowing down the type of host organism
 
 ---
 
-## TRANSITION TO MAILE (CLUE ROUND 2 — MORPHOLOGY)
+## TRANSITION TO MAILE (CLUE ROUND 2 - MORPHOLOGY)
 
 We will now move to the next stage of the investigation.
 
@@ -40,7 +40,7 @@ Maile will walk us through the morphology.
 
 ---
 
-## CLUE ROUND 3 — TRANSITION
+## CLUE ROUND 3 - TRANSITION
 
 We now have additional evidence.
 
